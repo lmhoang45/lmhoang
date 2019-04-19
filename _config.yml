@@ -3,7 +3,7 @@ sass:
 
 permalink: /:year/:month/:day/:title.html
 
-url: https://lmhoang45.github.io/lmhoang
+url: https://machinelearningcoban.com
 baseurl: ""
 
 future: true
